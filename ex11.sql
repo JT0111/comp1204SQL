@@ -27,3 +27,5 @@ CREATE TABLE Statistics(
     PRIMARY KEY(dateRep, countriesAndTerritories)
 );
 
+
+
